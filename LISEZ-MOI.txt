@@ -1,0 +1,8 @@
+ChargeTrack PWA
+
+1. Decompresser le ZIP.
+2. Publier tous les fichiers ensemble a la racine d un site HTTPS (ex. GitHub Pages).
+3. Ouvrir le lien HTTPS sur Samsung Chrome.
+4. Menu Chrome > Ajouter a l ecran d accueil > Installer.
+
+Les donnees sont conservees dans le navigateur sur chaque appareil, sans synchronisation. Exporter le CSV avant toute migration.
